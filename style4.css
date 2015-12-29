@@ -1,0 +1,84 @@
+.samp{
+
+	margin-top: 100px;
+
+}
+.sam1{
+	width: 500%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border:1px solid #ccc;
+	border-radius:4px;
+	box-sizing:border-box;
+}
+.ex1{
+ width:500px;
+margin:auto;
+height: 100px;
+border:10px;
+}
+.ex2{
+	width:300px;
+	padding: 3px;
+}
+.out2{
+	width: 300px;
+	padding: 3px;
+		}
+.in2{
+	width:500px;
+	padding: 3px;
+}
+.ch1{
+	margin-left: 2px;
+	
+}
+.list{
+	float: right;
+	width: 400px;
+
+}
+.li{
+	margin-bottom: 140px;
+	margin-right: 200px;
+}
+.dis{
+float:right;
+margin-top: 3cm;
+margin-right:90px;
+padding: 3px;
+}
+.txt{
+	float:right;
+	margin-top: 4cm;
+	margin-right: -500px;
+}
+.but{
+	float:right;
+	margin-top: 5cm;
+	margin-right: -96px;
+}
+.txt1{
+	float: right;
+	margin-top: 6cm;
+	margin-right: -310px;
+	font-family: Blackadder ITC;
+	font-size: 200%;
+}
+.txt2{
+	float: right;
+	margin-top: -1cm;
+	margin-right:330px; 
+	font-size:90%; 
+}
+.txt3{
+	float:right;
+	margin-top:0;
+	margin-right: 600px;
+	font-size: 90%;
+}
+.fon{
+	font-size: 110%;
+	font-family: Times New Roman;
+}
