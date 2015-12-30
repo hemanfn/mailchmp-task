@@ -1,0 +1,93 @@
+body{
+	background-color:#F2FBEF;
+}
+
+.container{
+	width:800px;
+	margin: 0 auto;
+}
+.logo{
+	width: 150px;
+	height: 150px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+	text-align: center;
+
+}
+
+.center {
+	text-align: center;
+
+}
+
+label{
+	display: block;
+	margin-top: 10px;
+	margin-left: 200px;
+
+}
+
+.password-field{
+	width: 300px;
+	margin-left: 200px;
+}
+
+.txt-username,.email-id{
+	width: 300px;
+	margin-left: 200px;
+
+}
+
+
+.list{
+	margin-top:40px;
+	margin-right:450px;
+	float:right;
+
+}
+.ui-list{
+	width:450px;
+	margin-bottom:-150px;
+	float: right;
+}
+
+.button-disbl{
+float:right;
+margin-top: 1px;
+margin-right:750px;
+padding: 3px;
+}
+
+.click{
+	float:right;
+	margin-top: 2cm;
+	margin-right: -500px;
+}
+.click-1{
+	float:right;
+	margin-top: 2.5cm;
+	margin-right: -140px;
+}
+.text-mail{
+	float: right;
+	margin-top:4cm;
+	margin-right:-310px;
+	font-family:'Times new roman';
+	font-size: 90;
+}
+.link{
+	float: right;
+	margin-top: 1cm;
+	margin-right:330px; 
+	font-size:90; 
+}
+.link-1{
+	float:right;
+	margin-top:-10px;
+	margin-right: 550px;
+	font-size: 90;
+}
